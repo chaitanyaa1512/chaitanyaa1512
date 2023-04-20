@@ -19,7 +19,7 @@
 
 ### Glad to see you here!  
 Hey Hello!
-This is Chaitanya Sharma a second year Computer Engineering pursuit.
+This is Chaitanya Sharma a Third year Computer Engineering pursuit.
   
   
 
