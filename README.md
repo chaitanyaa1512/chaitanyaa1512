@@ -19,7 +19,7 @@
 
 ### Glad to see you here!  
 Hey Hello!
-This is Chaitanya Sharma a Third year Computer Engineering pursuit.
+This is Chaitanya Sharma, a Final year B.Tech student specializing in Computer Science.
   
   
 
@@ -39,7 +39,7 @@ I am a BTech Student.
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 </td><td valign="top" width="50%">
