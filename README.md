@@ -33,10 +33,10 @@ This is Chaitanya Sharma, a Final year B.Tech student specializing in Computer S
 I am a BTech Student.  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning all about data modelling and visualization tools.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Data Analysis and Visualization.  
   
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
